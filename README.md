@@ -1,0 +1,1 @@
+Versionamento, no contexto de software e código, refere-se ao processo de controlar e rastrear as alterações feitas em um projeto ao longo do tempo. É como ter um histórico de todas as modificações, permitindo que os desenvolvedores voltem a versões anteriores, acompanhem as evoluções e facilitem o trabalho em colaboração
